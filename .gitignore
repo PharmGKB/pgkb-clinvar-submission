@@ -1,0 +1,19 @@
+# Dev dependency files
+.gradle
+/.idea/libraries/Gradle__*.xml
+/.idea/dictionaries/
+/.idea/gradle.xml
+/.idea/markdown-navigator.xml
+/.idea/markdown-navigator/profiles_settings.xml
+/.idea/misc.xml
+/.idea/modules/
+/.idea/modules.xml
+/.idea/shelf/
+/.idea/workspace.xml
+/.idea/vcs.xml
+
+# Temp files
+.DS_Store
+._.DS_Store
+*~
+/build/
