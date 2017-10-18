@@ -51,6 +51,11 @@ jar {
   }
 }
 
+tasks.withType(Javadoc) {
+  // disable the crazy super-strict doclint tool in Java 8
+  options.addStringOption('Xdoclint:none', '-quiet')
+}
+
 task javadocJar(type: Jar, dependsOn: javadoc) {
   classifier = 'javadoc'
   from 'build/docs/javadoc'
