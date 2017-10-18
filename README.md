@@ -1,6 +1,6 @@
 # PharmGKB ClinVar Submission Library
 
-[![Build Status](https://travis-ci.org/PharmGKB/pgkb-clinvar-submission.svg?branch=master)](https://travis-ci.org/PharmGKB/clinvar-submission)
+[![Build Status](https://travis-ci.org/PharmGKB/pgkb-clinvar-submission.svg?branch=master)](https://travis-ci.org/PharmGKB/pgkb-clinvar-submission)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.pharmgkb/pgkb-clinvar-submission/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.pharmgkb/pgkb-clinvar-submission)
 [ ![Download](https://api.bintray.com/packages/pharmgkb/maven/pgkb-clinvar-submission/images/download.svg) ](https://bintray.com/pharmgkb/maven/pgkb-clinvar-submission/_latestVersion)
 
