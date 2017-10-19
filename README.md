@@ -29,3 +29,10 @@ The XML Schema document can be found on [the NCBI FTP server in the ClinVar fold
 This library should be updated when ClinVar updates their submission schema.  The major/minor version numbers of this library will match ClinVar's submission schema's version.
 
 This code is maintained by [PharmGKB](https://www.pharmgkb.org) and is neither supported nor endorsed by NCBI or ClinVar.
+
+
+## A Note on Versioning
+
+This project will share the release version numbers of the XSD documents that it's meant to be used with. "Bugfix" releases will append a third-level version number.
+
+For example, a "1.5.2" version of this library will reflect the "1.5" version of the ClinVar XSD and would be a second "bugfix" release.
